@@ -4,7 +4,7 @@
 
 > **All credit to @cueki for the genius algorithm and original work!**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Key Improvements
 
