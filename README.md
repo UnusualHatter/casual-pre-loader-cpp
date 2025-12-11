@@ -68,7 +68,7 @@ This C++ port **only reimplements the exact behavior** – **no code copied**.
 
 ##  License
 
-MIT License – **Based 100% on @cueki's original work**
+GPL-3.0 License – Based 100% on @cueki's original work
 
 ```
 Copyright (c) 2025 UnusualHatter
