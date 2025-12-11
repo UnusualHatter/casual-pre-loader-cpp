@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"barnblitz.inside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".9"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient/lighthum.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/windwinterinside.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/owl3.mp3"
+			"wave"		"ambient_mp3/owl3.mp3"			
+			"wave"		"ambient_mp3/shutter4.mp3"
+			"wave"		"ambient_mp3/shutter5.mp3"
+			"wave"		"ambient_mp3/shutter6.mp3"
+
+		}
+	}
+}
+
+
+"barnblitz.outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/windwinter.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/owl3.mp3"
+			"wave"		"ambient_mp3/owl4.mp3"
+			"wave"		"ambient_mp3/owl4.mp3"
+			"wave"		"ambient_mp3/shutter4.mp3"
+			"wave"		"ambient_mp3/shutter5.mp3"
+			"wave"		"ambient_mp3/shutter6.mp3"
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+
+
+		}
+	}
+	
+
+}

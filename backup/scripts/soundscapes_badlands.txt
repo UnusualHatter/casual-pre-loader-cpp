@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Badlands.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".20"
+		"pitch"		"100"
+		"wave"		"ambient/lighthum.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100"
+		"position"		"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/machine_hum2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"position"		"2"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working2.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100"
+		"position"		"3"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/machine_hum.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"position"		"4"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working.wav"
+	}
+}
+
+
+"Badlands.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_high.wav"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+			"wave"		"ambient_mp3/hawk.mp3"
+			"wave"		"ambient_mp3/owl3.mp3"
+			"wave"		"ambient_mp3/owl4.mp3"
+			"wave"		"ambient_mp3/warbler.mp3"
+			"wave"		"ambient_mp3/crow3.mp3"
+			"wave"		"ambient_mp3/crow4.mp3"
+
+		}
+	}
+
+}
+
+"Badlands.OutsideInterior"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".55"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+}
+

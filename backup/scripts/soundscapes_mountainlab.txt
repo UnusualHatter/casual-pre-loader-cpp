@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"mountainlab.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".7"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+		"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/windwinterinside.wav"
+	}
+
+		"playlooping"
+	{
+		"volume"	"0.05"
+		"pitch"		"100"
+		"wave"		"ambient/rain.wav"
+	}
+	
+}
+
+"mountainlab.Outside1"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"wave"		"ambient/forest_life.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".65"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	"0.10"
+		"pitch"		"100"
+		"wave"		"ambient/rain.wav"
+	}
+	
+		"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+			"wave"		"ambient_mp3/warbler.mp3"
+			"wave"		"ambient_mp3/forest_bird6.mp3"
+			"wave"		"ambient_mp3/forest_bird7.mp3"
+			"wave"		"ambient_mp3/forest_bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}
+}
+
+"mountainlab.Outside2"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient/forest_life.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"pitch"		"100"
+		"wave"		"ambient/rain.wav"
+	}
+	
+		"playrandom"
+	{
+		"time"		"15,30"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+			"wave"		"ambient_mp3/forest_bird6.mp3"
+			"wave"		"ambient_mp3/forest_bird7.mp3"
+			"wave"		"ambient_mp3/forest_bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}	
+	
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_low.wav"
+	}	
+		
+}
+
+"mountainlab.Outside3"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".15"
+		"pitch"		"100"
+		"wave"		"ambient/forest_life.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"		"ambient/rain.wav"
+	}
+	
+		"playrandom"
+	{
+		"time"		"10,35"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+			"wave"		"ambient_mp3/warbler.mp3"
+			"wave"		"ambient_mp3/forest_bird6.mp3"
+			"wave"		"ambient_mp3/forest_bird7.mp3"
+			"wave"		"ambient_mp3/forest_bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}
+}
+
+"mountainlab.entrance"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/forest_life.wav"
+	}
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_low.wav"
+	}	
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/machine_hum2.wav"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	"0.05"
+		"pitch"		"100"
+		"wave"		"ambient/rain.wav"
+	}
+	
+		"playrandom"
+	{
+		"time"		"10,35"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+			"wave"		"ambient_mp3/warbler.mp3"
+			"wave"		"ambient_mp3/forest_bird6.mp3"
+			"wave"		"ambient_mp3/forest_bird7.mp3"
+			"wave"		"ambient_mp3/forest_bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}	
+}
+
+"mountainlab.Bluspawn"
+{
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/waterfalloutside.wav"
+	}
+	
+		"playlooping"
+	{
+		"volume"	".35" 
+		"pitch"		"100"
+		"wave"		"ambient/drips1.wav"
+	} 
+			"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_low.wav"
+	}	
+	
+		"playlooping"
+	{
+		"volume"	"0.05"
+		"pitch"		"100"
+		"wave"		"ambient/rain.wav"
+	}
+	
+}
+"mountainlab.Cpoint"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_low.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".55"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"wave"		"ambient/machine_hum2.wav"
+	}
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/nucleus_electricity.wav"
+
+	}
+	
+}
+

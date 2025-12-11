@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Moonbase.Outerspace"
+{
+
+
+	
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"pitch"		"100"
+		"wave"		"ambient/spacebase/spacebase_outdoors.wav"
+	}	
+	"playrandom"
+	{
+		"time"		"15,25"
+		"volume"	"0.3"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_01.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_02.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_03.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_04.mp3"
+		}
+	}
+	
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"0.3"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_01.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_02.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_03.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_04.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_05.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_06.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_07.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_08.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_09.mp3"
+		}
+	}
+	
+}
+
+"Moonbase.Underground"
+{
+	"dsp"	"18"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/spacebase/spacebase_indoors.wav"
+	}
+	
+	"playrandom"
+	{
+		"time"		"15,30"
+		"volume"	"0.3"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_01.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_02.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_03.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_bang_04.mp3"
+		}
+	}
+	
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"0.4"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_01.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_02.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_03.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_04.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_05.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_06.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_07.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_08.mp3"
+			"wave"		"ambient_mp3/spacebase/spacebase_rumble_09.mp3"
+		}
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

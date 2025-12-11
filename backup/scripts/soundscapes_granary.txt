@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Granary.Outside"
+{
+	"dsp"	"1"
+
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"		"1"
+		"pitch"		"100"
+		"position"		"0"
+		"attenuation"	"1"	
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/cow1.mp3"
+			"wave"		"ambient_mp3/cow2.mp3"
+			"wave"		"ambient_mp3/cow3.mp3"
+			"wave"		"ambient_mp3/bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}
+
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"		"1"
+		"pitch"		"100"
+		"position"		"2"
+		"attenuation"	"1"	
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/cow1.mp3"
+			"wave"		"ambient_mp3/cow2.mp3"
+			"wave"		"ambient_mp3/cow3.mp3"
+			"wave"		"ambient_mp3/bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}
+
+	"playlooping"
+	{
+		"volume"	".45"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"1"	
+		"wave"		"ambient/factory_outdoor.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".45"
+		"pitch"		"100"
+		"position"	"3"
+		"attenuation"	"1"	
+		"wave"		"ambient/factory_outdoor.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_quiet_birds.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors.wav"
+	}
+}
+
+"Granary.Inside"
+{
+
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+}

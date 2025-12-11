@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"2fort.Underground"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".30"
+		"pitch"		"100"
+		"wave"		"ambient/machine_hum2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"0"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/machine_hum.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_tape.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"2"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"position"	"3"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_tape2.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"4"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/command_center.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"5"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/printer.wav"
+	}
+}
+
+"2fort.Underground2"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".3"
+		"pitch"		"100"
+		"wave"		"ambient/machine_hum2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"0"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/machine_hum.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_tape.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"2"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"position"	"3"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_tape2.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".85"
+		"pitch"		"100"
+		"position"	"4"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/command_center.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".85"
+		"pitch"		"100"
+		"position"	"5"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/printer.wav"
+	}
+}
+
+"2fort.OutdoorPond"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"		".35"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_quiet_birds.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".35"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".45"
+		"pitch"		"100"
+		"wave"		"ambient/pondlife.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".15"
+		"pitch"		"100"
+		"wave"		"ambient/pondwater.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"	".35"
+		"pitch"		"100"
+		"position"	"0"
+		"attenuation"	"0.25"	
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/cow1.mp3"
+			"wave"		"ambient_mp3/cow2.mp3"
+			"wave"		"ambient_mp3/cow3.mp3"
+			"wave"		"ambient_mp3/bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/train_engine_idle.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"position"	"2"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/engine_idle.wav"
+	}
+
+}
+
+
+"2fort.OutdoorFort"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"		".35"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_quiet_birds.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".35"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors.wav"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"	".35"
+		"pitch"		"100"
+		"position"	"0"
+		"attenuation"	"0.7"	
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/cow1.mp3"
+			"wave"		"ambient_mp3/cow2.mp3"
+			"wave"		"ambient_mp3/cow3.mp3"
+			"wave"		"ambient_mp3/bird1.mp3"
+			"wave"		"ambient_mp3/bird2.mp3"
+			"wave"		"ambient_mp3/bird3.mp3"
+		}
+	}
+
+	
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	".07"	
+		"wave"		"ambient/factory_outdoor.wav"
+	}
+}
+
+"2fort.Indoor"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+}

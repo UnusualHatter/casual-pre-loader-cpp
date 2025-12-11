@@ -1,0 +1,10 @@
+"sky"
+{
+	
+	"$hdrcompressedTexture" "skybox/sky_upward_hdrup"	
+	"$nofog" "1"
+	"$ignorez" "1"
+	"$basetexture" "skybox/sky_upwardup"
+
+	"%keywords" "tf"
+}

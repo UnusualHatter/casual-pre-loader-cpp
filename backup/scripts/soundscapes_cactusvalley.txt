@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"CactusV.RespawnA"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{  
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working.wav"
+	}
+}
+
+"CactusV.RespawnB"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{  
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working2.wav"
+	}
+}
+
+"CactusV.Inside"
+{
+	"dsp"	"1"
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".7"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+}
+
+"CactusV.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".3"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"wave"		"ambient/desert_rustle.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"7,12"
+		"volume"	"0.4"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/dog1.mp3"
+			"wave"		"ambient_mp3/dog2.mp3"
+			"wave"		"ambient_mp3/dog3.mp3"
+			"wave"		"ambient_mp3/dog4.mp3"
+			"wave"		"ambient_mp3/crow1.mp3"
+			"wave"		"ambient_mp3/crow2.mp3"
+			"wave"		"ambient_mp3/crow3.mp3"
+			"wave"		"ambient_mp3/crow4.mp3"
+		}
+	}
+}

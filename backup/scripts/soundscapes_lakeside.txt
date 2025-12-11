@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Lakeside.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".65"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind.wav"
+	}
+		
+
+	"playrandom"
+	{
+		"time"		"7,18"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient\materials\rock1.wav"
+			"wave"		"ambient\materials\rock2.wav"
+			"wave"		"ambient\materials\rock3.wav"
+			"wave"		"ambient\materials\rock4.wav"
+			"wave"		"ambient\materials\rock5.wav"
+		}
+	}
+
+}
+
+"Lakeside.Wood"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind.wav"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"2,10"
+		"volume"	"0.75"
+		"pitch"		"100"
+		"rndwave"
+		{
+		"wave"		"ambient\materials\wood_creak1.wav"
+		"wave"		"ambient\materials\wood_creak2.wav"
+		"wave"		"ambient\materials\wood_creak3.wav"
+		"wave"		"ambient\materials\wood_creak4.wav"
+		"wave"		"ambient\materials\wood_creak5.wav"
+		}
+	}
+
+}
+
+"Lakeside.Lake"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".65"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".8"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"	"0.35"
+		"pitch"		"90,105"
+		"rndwave"
+		{
+			"wave"		"ambient\levels\canals\windchime4.wav"
+			"wave"		"ambient\levels\canals\windchime5.wav"
+		}
+	}
+		
+}
+
+
+"Lakeside.Inside_blu"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".50"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient\lighthum.wav"
+	}
+
+	
+}
+"Lakeside.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".50"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".3"
+		"pitch"		"100"
+		"wave"		"ambient\fire\fire_small1.wav"
+	}
+
+	
+}
+"Lakeside.Temple"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".3"
+		"pitch"		"100"
+		"wave"		"ambient\fire\fire_small1.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".50"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient\water\lake_water.wav"
+	}
+	
+}
+
+
+"Lakeside.Cave"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".50"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+	"playrandom"
+	{
+		"time"		"5,12"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient\materials\rock1.wav"
+			"wave"		"ambient\materials\rock2.wav"
+			"wave"		"ambient\materials\rock3.wav"
+			"wave"		"ambient\materials\rock4.wav"
+			"wave"		"ambient\materials\rock5.wav"
+		}
+	}
+	
+}

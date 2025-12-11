@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Upward.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+
+	
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_low.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	".5"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/wind_gust2.mp3"
+			"wave"		"ambient_mp3/wind_gust1.mp3"
+		}
+	}
+}
+
+"Upward.Inside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+}

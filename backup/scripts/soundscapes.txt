@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"tf2.respawn_room"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{  
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".30"
+		"pitch"		"100"
+		"wave"		"ambient/machine_hum2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"0"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/machine_hum.wav"
+	}
+}
+
+"tf2.general_ambient"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_well.wav"
+	}
+}

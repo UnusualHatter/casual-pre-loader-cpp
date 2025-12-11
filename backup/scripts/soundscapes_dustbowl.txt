@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Dustbowl.Outdoors"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"		".15"
+		"pitch"		"100"
+		"wave"		"ambient/desert_life.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"10, 30"
+		"volume"	".50"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/owl1.mp3"
+			"wave"		"ambient_mp3/owl2.mp3"
+			"wave"		"ambient_mp3/crow1.mp3"
+			"wave"		"ambient_mp3/crow2.mp3"
+		}
+	}
+
+	
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_low.wav"
+	}
+	
+		"playlooping"
+	{
+		"volume"	".15"
+		"pitch"		"100"
+		"wave"		"ambient/desert_wind_high.wav"
+	}
+}
+
+"Dustbowl.Indoors"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+}

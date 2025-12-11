@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Lumberyard.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/lighthum.wav"
+	}
+
+}
+
+
+"Lumberyard.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/forest_life.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"wave"		"ambient/forest_high_wind.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"3,5"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/hawk.mp3"
+			"wave"		"ambient_mp3/warbler.mp3"
+			"wave"		"ambient_mp3/forest_bird1.mp3"
+			"wave"		"ambient_mp3/forest_bird2.mp3"
+			"wave"		"ambient_mp3/forest_bird3.mp3"
+			"wave"		"ambient_mp3/forest_bird4.mp3"
+			"wave"		"ambient_mp3/forest_bird5.mp3"
+			"wave"		"ambient_mp3/forest_bird6.mp3"
+			"wave"		"ambient_mp3/forest_bird7.mp3"
+			"wave"		"ambient_mp3/forest_bird8.mp3"
+			"wave"		"ambient_mp3/forest_bird9.mp3"
+		}
+	}
+
+}

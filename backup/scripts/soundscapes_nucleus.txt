@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Nucleus.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".2"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/nucleus_electricity.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+}
+
+"Nucleus.Outside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".55"
+		"pitch"		"100"
+		"wave"		"ambient/nucleus_electricity.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".45"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_well.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".45"
+		"pitch"		"100"
+		"wave"		"ambient/desert_indoors.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".15"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+}

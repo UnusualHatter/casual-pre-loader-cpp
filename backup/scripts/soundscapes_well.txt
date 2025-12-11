@@ -1,0 +1,186 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Well.DeepInside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".3"
+		"pitch"		"100"
+		"wave"		"ambient/machine_hum2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"0"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/machine_hum.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"position"	"1"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_tape.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".75"
+		"pitch"		"100"
+		"position"	"2"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".4"
+		"pitch"		"100"
+		"position"	"3"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_tape2.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".85"
+		"pitch"		"100"
+		"position"	"4"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/command_center.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".85"
+		"pitch"		"100"
+		"position"	"5"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/printer.wav"
+	}
+}
+
+"Well.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".1"
+		"pitch"		"100"
+		"wave"		"ambient/lighthum.wav"
+	}
+}
+
+
+"Well.Outside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_well.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"position"	"1"
+		"soundlevel"	"SNDLVL_85dB"
+		"wave"		"ambient/factory_outdoor.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"position"	"0"
+		"soundlevel"	"SNDLVL_90dB"	
+		"wave"		"ambient/machine_hum.wav"
+	}
+}

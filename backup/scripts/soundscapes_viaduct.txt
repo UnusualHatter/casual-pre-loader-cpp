@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"viaduct.Inside"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".10"
+		"pitch"		"100"
+		"wave"		"ambient/lighthum.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/windwinterinside.wav"
+	}
+}
+
+
+"Viaduct.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors.wav"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	".45"
+		"pitch"		"100"
+		"wave"		"ambient/windwinter.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/owl3.mp3"
+			"wave"		"ambient_mp3/owl4.mp3"
+			"wave"		"ambient_mp3/owl4.mp3"
+			"wave"		"ambient_mp3/shutter4.mp3"
+			"wave"		"ambient_mp3/shutter5.mp3"
+			"wave"		"ambient_mp3/shutter6.mp3"
+
+		}
+	}
+}

@@ -1,0 +1,163 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Mannworks.Respawn"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{  
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/underground.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".30"
+		"position"	"1"
+		"pitch"		"100"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"	".30"
+		"pitch"		"100"
+		"position"	"2"
+		"attenuation"	"0.7"	
+		"wave"		"ambient/computer_working.wav"
+	}
+}
+
+"Mannworks.InsideWood"
+{ 
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".7"
+		"pitch"		"100"
+		"wave"		"ambient/lightwindcreaks.wav"
+	}
+		"playlooping"
+	{
+		"volume"		".4"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors.wav"
+	}
+}
+
+"Mannworks.InsideCellars"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".6"
+		"pitch"		"100"
+		"wave"		"ambient/indoors.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".5"
+		"pitch"		"100"
+		"wave"		"ambient/windwinterinside.wav"
+	}
+}
+
+
+"Mannworks.Outside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors_quiet_birds.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambient/outdoors.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"	"0.3"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/crow1.mp3"
+			"wave"		"ambient_mp3/crow2.mp3"
+			"wave"		"ambient_mp3/crow3.mp3"
+			"wave"		"ambient_mp3/crow4.mp3"
+			"wave"		"ambient_mp3/owl3.mp3"
+			"wave"		"ambient_mp3/owl4.mp3"
+		}
+	}
+
+}

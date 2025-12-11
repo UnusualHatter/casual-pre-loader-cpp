@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Medieval.Outside"
+{
+	"dsp"	"21"
+
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100"
+		"wave"		"ambient/medieval_outside.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"20,25"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/medieval_falcon.mp3"
+
+			"wave"		"ambient_mp3/medieval_thunder2.mp3"
+			"wave"		"ambient_mp3/medieval_thunder3.mp3"
+		}
+	}
+}
+
+"Medieval.Inside"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"		"1"
+		"pitch"		"100"
+		"wave"		"ambient/medieval_outside.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"20,25"
+		"volume"	"1"
+		"pitch"		"100"
+		"rndwave"
+		{
+			"wave"		"ambient_mp3/medieval_falcon_inside.mp3"
+			"wave"		"ambient_mp3/medieval_thunder1_inside.mp3"
+			"wave"		"ambient_mp3/medieval_thunder2_inside.mp3"
+			"wave"		"ambient_mp3/medieval_thunder3_inside.mp3"
+		}
+	}
+}
+
